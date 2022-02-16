@@ -1,0 +1,50 @@
+.mainAvatar {
+  width: 100%;
+  height: 44vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  background-color: rgb(176 215 241)
+}
+
+.ava {
+  width: 32vh;
+  height: 100%;
+  position: relative;
+}
+
+.downloadImg {
+  height: 30px;
+  width: 30px;
+}
+
+.downloadDiv {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.downloadDiv h3 {
+  color: black;
+}
+
+.whiteDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 0 15px 15px 15px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+
+
+
+.img {
+  height: 8vh;
+  width: 250px;
+  margin-bottom: 2vh;
+  margin-top: 2vh;
+}
